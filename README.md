@@ -1,0 +1,1 @@
+BrainBoost: Python 10-Minute Projects is a collection of small, beginner-friendly Python projects designed to be completed in 10 minutes or less. Each project helps you build logical thinking and strengthen your Python fundamentals through hands-on coding. Perfect for daily practice, quick learning sessions, or improving your problem-solving skills with fun, focused challenges.
